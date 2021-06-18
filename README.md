@@ -1,2 +1,2 @@
 # TETRIS
-Tetris is a game that it was my university project.
+Tetris is a classic game that I coded for my university course.
